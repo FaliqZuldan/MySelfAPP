@@ -12,11 +12,7 @@ import androidx.annotation.NonNull;
 import androidx.viewpager.widget.PagerAdapter;
 
 
-// Identitas diri:
-// Tanggal Pengerjaan: 10 Juni 2024
-// NIM: 10121076
-// Nama: Faliq Zuldan Akbar
-// Kelas: Pengrogram Android 3
+
 
 public class ViewPageAdapter extends PagerAdapter {
 
