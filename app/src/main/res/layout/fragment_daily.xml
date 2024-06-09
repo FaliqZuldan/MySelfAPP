@@ -1,0 +1,54 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".daily">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/dailyTitleTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/daily"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp" />
+
+        <!-- RecyclerView for daily activities -->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/dailyListRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/dailyTitleTextView"
+            android:layout_marginTop="16dp" />
+
+        <TextView
+            android:id="@+id/friendTitleTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/friend"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:layout_below="@id/dailyListRecyclerView"
+            android:layout_marginTop="16dp"
+            android:layout_alignParentTop="false"
+            android:layout_centerHorizontal="true" />
+
+        <!-- RecyclerView for friend list -->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/friendActivitiesRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/friendTitleTextView"
+            android:layout_marginTop="16dp"
+            android:orientation="horizontal" />
+
+    </RelativeLayout>
+
+</ScrollView>

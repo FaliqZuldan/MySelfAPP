@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MySelfAPP</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="skip">Skip</string>
+    <string name="header1">Berkenalan</string>
+    <string name="header2">Tentang Diriku</string>
+    <string name="header3">Mari Berteman</string>
+    <string name="isi1">Haloo, Saya adalah Pembuat aplikasi ini. Aplikasi ini dibuat untuk mengenalkan diri saya</string>
+    <string name="isi2">Disini kamu dapat mengetahui banyak hal tentang diriku seperti Hobi, Cita-Cita, Lagu kesukaan dan masih banyak lainnya</string>
+    <string name="isi3">Semoga dengan aplikasi ini kamu dapat mengenal saya dan kita saling berteman</string>
+    <string name="isi_deskripsi">Haloo perkenalkan nama saya Faliq Zuldan Akbar Mahasiswa Universitas Komputer Indonesia Semester 6 dan berusia 20 tahun</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="bangun">Bangun Tidur</string>
+    <string name="bangun_deskripsi">Saya bangun tidur sekitar jam 5</string>
+    <string name="sarapan">Makan Pagi</string>
+    <string name="sarapan_deskripsi">Memakan sarapana pagi</string>
+    <string name="mandi">Mandi/Bersiap Siap</string>
+    <string name="mandi_deskripsi">Bersiap siap untuk berangkat kuliah</string>
+    <string name="kuliah">Kuliah</string>
+    <string name="kuliah_deskripsi">Melakukan Perkuliahan</string>
+    <string name="istirat">Beristirhat</string>
+    <string name="istirahat_deskripsi">Setelah pulang saya beristirahat sebentar</string>
+    <string name="belajat">Belajar</string>
+    <string name="belajar_deskripsi">Mengulang materi yang telah dipelajari di kampus</string>
+    <string name="makan_malam">Makan Malam</string>
+    <string name="makan_deskripsi">Mengisi tenaga dengan makan malam</string>
+    <string name="tidur">Tidur</string>
+    <string name="tidur_deskripsi">Beristirahat untuk hari esok</string>
+    <string name="hobby">Hobby</string>
+
+    <string name="find">Find Me</string>
+    <string name="daily">My Daily Life</string>
+    <string name="friend">My Friend</string>
+    <string name="hobby_isi">Hobby : Sepakbola, Bermain Game</string>
+    <string name="makes">Makes : Soto, Lele, Tahu</string>
+    <string name="mikes">Mikes : Kopi, Coklat</string>
+    <string name="interets">Interest : Game Developer</string>
+    <string name="cita">Cita Cita : Sukses</string>
+    <string name="wa">085759546050</string>
+    <string name="email">Arulnaufal32@gmail.com</string>
+    <string name="about">About</string>
+    <string name="ver">Version 1.0</string>
+    <string name="dev">Developed by : Faliq Zuldan Akbar</string>
+</resources>
